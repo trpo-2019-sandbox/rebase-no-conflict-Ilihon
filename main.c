@@ -2,7 +2,6 @@
 
 #define N_ELEMENTS(arr) (sizeof(arr) / sizeof(*(arr)))
 
-#define N_ELEMENTS(arr) (sizeof(arr) / sizeof(*(arr)))
 
 int min_element(int* arr, int size)
 {
